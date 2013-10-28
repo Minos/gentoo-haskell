@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<herd>haskell</herd>
+	<maintainer>
+		<email>haskell@gentoo.org</email>
+	</maintainer>
+	<longdescription>
+		Pontarius XMPP is a work in progress implementation of RFC 6120
+		(&quot;XMPP CORE&quot;), RFC 6121 (&quot;XMPP IM&quot;), and RFC 6122 (&quot;XMPP ADDR&quot;).
+		While in alpha, Pontarius XMPP works quite well and fulfills most
+		requirements of the RFCs.
+	</longdescription>
+</pkgmetadata>
